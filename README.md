@@ -1,2 +1,2 @@
-# core-python
+# Python Programming
 python basic
